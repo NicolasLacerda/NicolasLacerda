@@ -1,53 +1,53 @@
 # Nicolas Lacerda
 
-**Desenvolvedor Full Stack · Web, APIs e aplicações mobile**
+**Desenvolvedor Full Stack · Sistemas web, APIs e aplicações mobile**
 
-Desenvolvo sistemas com **PHP, JavaScript, TypeScript, Vue.js e MySQL**. Atuo na **Ecletech desde julho de 2025** e curso **Bacharelado em Engenharia de Software na UCB**.
+Atuo na **Ecletech desde julho de 2025**, desenvolvendo e mantendo funcionalidades usadas na operação de empresas. Trabalho com **PHP, JavaScript, TypeScript, Vue.js e MySQL**, do backend às interfaces web e mobile.
 
-Busco oportunidades em desenvolvimento de software, com interesse em backend, frontend, full stack e mobile.
+Curso **Bacharelado em Engenharia de Software na UCB** e busco oportunidades em desenvolvimento de software.
 
-[LinkedIn e contato profissional](https://www.linkedin.com/in/nicolas-lacerda-1b05b82b1/)
+[Conversar pelo LinkedIn](https://www.linkedin.com/in/nicolas-lacerda-1b05b82b1/)
 
-## O que desenvolvo
+## Experiência em sistemas reais
 
-- **Sistemas de gestão:** funcionalidades para vendas, compras, financeiro e logística.
-- **Backend e integrações:** APIs, regras de negócio, permissões de acesso e persistência de dados.
-- **Aplicações mobile:** app para motoristas com rotas, registro de entregas, geolocalização e sincronização após períodos sem conexão.
-- **Evolução de sistemas:** investigação de falhas, correções, testes e acompanhamento de versões.
+### Gestão empresarial e APIs
+
+Na Ecletech, trabalho em funcionalidades de **vendas, compras, financeiro e logística**, conectando interfaces, regras de negócio e persistência de dados.
+
+- Desenvolvimento e manutenção de APIs e integrações.
+- Implementação de regras de negócio e permissões de acesso.
+- Investigação de falhas e correções em fluxos utilizados pela operação.
+
+**Tecnologias:** PHP, JavaScript, MySQL e APIs REST.
+
+### Aplicativo para motoristas
+
+Atuo na evolução de um aplicativo com **Vue.js, TypeScript, Ionic e Capacitor**, voltado ao acompanhamento de rotas e à execução de entregas.
+
+- Registro de entregas e geolocalização.
+- Funcionamento durante períodos sem conexão.
+- Sincronização dos registros quando a conexão é restabelecida.
+
+### Planejamento e acompanhamento logístico
+
+Desenvolvo recursos para **planejamento de rotas, previsão de custos e comparação entre o planejado e o executado**, apoiando o acompanhamento da operação.
+
+Meu trabalho também envolve testes, manutenção e acompanhamento de versões dos sistemas.
 
 ## Tecnologias
 
-| Área | Ferramentas |
-| --- | --- |
-| Backend e dados | PHP, APIs REST, MySQL |
-| Frontend | JavaScript, TypeScript, Vue.js, HTML e CSS |
-| Mobile | Ionic e Capacitor |
-| Versionamento | Git e GitHub |
+| Backend e dados | Frontend | Mobile | Versionamento |
+| --- | --- | --- | --- |
+| PHP · APIs REST · MySQL | JavaScript · TypeScript · Vue.js · HTML · CSS | Ionic · Capacitor | Git · GitHub |
 
-## Projetos públicos
+## Formação
 
-### [Parsec Amigos](https://github.com/NicolasLacerda/Parsec-for-friends)
+**Bacharelado em Engenharia de Software — UCB**  
+Em andamento desde outubro de 2026.
 
-Aplicativo de comunidade para Windows que facilita o acesso aos computadores de amigos e a transmissão de tela pelo Parsec. Desenvolvido em **C# e WinForms**, com componentes nativos em Assembly x64, scripts PowerShell, testes e releases para download.
+**Inglês intermediário** para leitura, escrita e compreensão geral.
 
-[Código e documentação](https://github.com/NicolasLacerda/Parsec-for-friends#readme) · [Releases](https://github.com/NicolasLacerda/Parsec-for-friends/releases)
+---
 
-### [CRUD de contatos](https://github.com/NicolasLacerda/CRUD)
-
-Projeto de estudo em **PHP e MySQL** para cadastrar, listar, editar e excluir contatos. Utiliza PDO, consultas parametrizadas, autoload PSR-4 e formulários com Bootstrap.
-
-[Código e instruções de execução](https://github.com/NicolasLacerda/CRUD#readme)
-
-### [Learning PHP](https://github.com/NicolasLacerda/Learning-PHP)
-
-Exercícios da minha base de aprendizado em PHP: formulários, variáveis, datas, operações matemáticas e desafios práticos. Organizados com um guia para executar e explorar os exemplos.
-
-[Exercícios e desafios](https://github.com/NicolasLacerda/Learning-PHP#readme)
-
-## Formação e idiomas
-
-- **Bacharelado em Engenharia de Software — UCB:** em andamento, desde outubro de 2026.
-- **Inglês intermediário:** leitura, escrita e compreensão geral.
-- **Contagem, Minas Gerais, Brasil.**
-
-Para conversar sobre uma oportunidade, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/nicolas-lacerda-1b05b82b1/).
+**Contagem, MG · Aberto a oportunidades em backend, frontend, full stack e mobile.**  
+[LinkedIn](https://www.linkedin.com/in/nicolas-lacerda-1b05b82b1/)
